@@ -38,3 +38,5 @@
 # History
 学歴、職歴、アルバイト、インターン経験など。
 - 2020年　中央大学国際情報学部入学
+
+<a class="twitter-timeline" data-lang="ja" data-height="600" href="https://twitter.com/itl_yto?ref_src=twsrc%5Etfw">Tweets by itl_yto</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
